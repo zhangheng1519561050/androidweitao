@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.androidweitao"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/aigou_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.androidweitao.WeitaoActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.androidweitao.AllFragment" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Erweima" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Img1" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Img12" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Img22" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Img24" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Img32" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Img33" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Img34" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Login" >
+        </activity>
+        <activity
+            android:name="com.example.androidweitao.MipcaActivityCapture"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity android:name="com.example.androidweitao.productActivity" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Register" >
+        </activity>
+        <activity android:name="com.example.androidweitao.shoppingcartActivity" >
+        </activity>
+        <activity android:name="com.example.androidweitao.Zhucexieyi" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/android_igo_buy_loading" >
+
+    <TextView
+        android:id="@+id/home1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="爱购"
+        android:textColor="#ffffff"
+        android:textSize="40px"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/home2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="点点手指   观赏无限Shopping"
+        android:textColor="#ffffff"
+        android:textSize="22px"
+        android:textStyle="bold" />
+
+</LinearLayout>

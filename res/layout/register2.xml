@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff0000"
+        android:gravity="center_horizontal"
+        android:text="欢迎新用户注册"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="用户名:" />
+
+    <EditText
+        android:id="@+id/userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="用户名不能为空" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="邮箱" />
+
+    <EditText
+        android:id="@+id/textemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入正确的邮箱格式" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="密码:" />
+
+    <EditText
+        android:id="@+id/userPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入6-18位数字或字母"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="请确认密码" />
+
+    <EditText
+        android:id="@+id/Passwordagain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入再次输入密码"
+        android:inputType="textPassword" />
+
+    <CheckBox
+        android:id="@+id/showpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:text="显示密码" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <CheckBox
+            android:id="@+id/checkagree"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="同意" />
+
+        <TextView
+            android:id="@+id/zhucexieyi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#2f4DB849"
+            android:text="@string/zhucexieyi"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="13dp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="130px"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#E97D13"
+        android:text="注册"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

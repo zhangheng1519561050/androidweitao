@@ -1,0 +1,818 @@
+[
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_kill_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_kill_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sousuo.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\sousuo.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shouchang2.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\shouchang2.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_express.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_express.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_shoppingcartlistview.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\shoppingcartlistview.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shape1.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\shape1.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a5tob5.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\a5tob5.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shezhi.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\shezhi.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_book_scan.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_book_scan.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_my_review.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_my_review.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_feedback.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_feedback.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shouchang3.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\shouchang3.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lishi.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\lishi.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a2.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\a2.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_jiaju.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_jiaju.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iv_yy_search2.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\iv_yy_search2.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_address.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_address.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_my_order_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_my_order_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pinglun.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\pinglun.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_moreadapterlayout.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\moreadapterlayout.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_productuint.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\productuint.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_f1.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\f1.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_juesha.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\juesha.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yaoyiyao.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\yaoyiyao.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_pressed.9.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iv_ewm_search1.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\iv_ewm_search1.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_baibao1.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\baibao1.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_bag.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_bag.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b1.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\b1.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a4.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\a4.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_huabao_title.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\huabao_title.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_img21.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\img21.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_empty_img.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\empty_img.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iv_ywm_search1.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\iv_ywm_search1.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_shuzi_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_shuzi_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\menu_igo_order.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\menu\\igo_order.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_reco.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_reco.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_focused.9.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_productlist.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\productlist.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bill_frame.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\bill_frame.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_kefu.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_kefu.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_baibao3.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\baibao3.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dingdan.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\dingdan.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_phone.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_phone.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_shoppingcart_emptyf4.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\shoppingcart_emptyf4.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_address_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_address_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_food2.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\food2.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a3tob3.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\a3tob3.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mmtitle_bg_alpha.9.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yuying.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\yuying.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reduce.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\reduce.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_three.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\three.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_beauty.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_beauty.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_car.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_car.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cart.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\cart.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_activitymain.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\activitymain.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_food.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_food.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_liuchen.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\liuchen.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_txt_input_down.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\scan_txt_input_down.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yijian.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\yijian.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_beijing1.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\beijing1.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_selectot_bt.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\selectot_bt.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gouwuliuchen.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\gouwuliuchen.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a3.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\a3.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_f5.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\f5.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_submit_order_arrow.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\submit_order_arrow.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weixiao.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\weixiao.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_shoes.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_shoes.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shoppingcart.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\shoppingcart.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_collect.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\collect.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_register.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\register.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_kill.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_kill.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_zhucexieyi.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\zhucexieyi.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a4tob4.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\a4tob4.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_yunying.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_yunying.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shouchang1.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\shouchang1.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_baibao2.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\baibao2.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android_home_search.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\android_home_search.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_yuyinggo.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\yuyinggo.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_saomiao.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\saomiao.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_express_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_express_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_two.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\two.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_movie.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_movie.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_my_review_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_my_review_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wuliu.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\wuliu.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.gif.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\logo.gif"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shoucang.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\shoucang.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a1tob1.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\a1tob1.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_music.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_music.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_women1.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\women1.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_help.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_help.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_capture.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_bang_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_bang_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_my_wish_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_my_wish_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_weitao.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\weitao.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_navigation_car.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\main_navigation_car.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_recent.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\recent.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tuichu.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\tuichu.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_reco_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_reco_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_watch.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_watch.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_navigation_home.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\main_navigation_home.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b5.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\b5.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\raw_realm_properties.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_four.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\four.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_yuy.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_yuy.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_bang.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_bang.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_shuzi.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_shuzi.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cart_btn_bill.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\cart_btn_bill.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_my_order.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_my_order.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a2tob2.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\a2tob2.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_about.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_about.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_maz_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_maz_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android_title_bg1.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\android_title_bg1.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_help_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_help_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b4.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\b4.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_aaa.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\aaa.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_typelistdouble_itembg.9.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\typelistdouble_itembg.9.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_bang_press_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_bang_press_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_pixie.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_pixie.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_about1.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_about1.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_classificationunit.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\classificationunit.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\anim_yidong.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\anim\\yidong.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bb1.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\bb1.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_barcode_scan_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_barcode_scan_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dizhi.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\dizhi.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_aigou_icon.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\aigou_icon.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_img34.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\img34.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_miaosha1.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\miaosha1.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_other.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_other.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baibao_back2.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\baibao_back2.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a5.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\a5.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_yuy_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_yuy_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_navigation_search.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\main_navigation_search.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_update.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_update.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_my_wish.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_my_wish.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a1.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\a1.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gengxin.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\gengxin.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_household.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_household.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_maz.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_maz.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_img24.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\img24.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b3.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\b3.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_img32.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\img32.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_order.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\order.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_update_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_update_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_title.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_kefu_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_kefu_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shoucang1.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\shoucang1.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_book.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_book.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_sport.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_sport.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tiaoma.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\tiaoma.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tools_listview_bj.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\tools_listview_bj.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baibao_back1.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\baibao_back1.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_register2.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\register2.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_muying.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_muying.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_history.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_history.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_clothing.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_clothing.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b2.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\b2.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_miaosha3.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\miaosha3.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_w01.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\w01.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_aap.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\aap.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_classificationlistviewf3.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\classificationlistviewf3.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sadad.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\sadad.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_longer.9.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\longer.9.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_img33.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\img33.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_igo_tools_back.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\igo_tools_back.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_img1.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\img1.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_one.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\one.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_navigation_tools.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\main_navigation_tools.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lianxi.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\lianxi.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_play.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_play.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_barcode_scan.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_barcode_scan.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_dianqi.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_dianqi.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tools_emply_bj.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\tools_emply_bj.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iv_yy_search1.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\iv_yy_search1.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android_igo_buy_loading.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\android_igo_buy_loading.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iv_ywm_search2.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\iv_ywm_search2.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_miaosha2.jpg.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\miaosha2.jpg"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iv_ewm_search2.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\iv_ewm_search2.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paihangbang.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\paihangbang.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_layout_bg.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\title_layout_bg.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mm_title_back_btn.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_feedback_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_feedback_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category_computer.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\category_computer.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_magic_history_press.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\magic_history_press.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mm_title_back_normal.9.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_shoppingcartuint.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\shoppingcartuint.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_f2.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\f2.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baise.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\baise.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_shoppingcart.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\shoppingcart.xml"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shouchang4.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\shouchang4.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_navigation_catagory.png.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\drawable-hdpi\\main_navigation_catagory.png"
+    },
+    {
+        "merged": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\build\\intermediates\\res\\merged\\debug\\layout_img12.xml.flat",
+        "source": "D:\\Androidkejian\\zhang\\Weitao\\androidweitao\\app\\src\\main\\res\\layout\\img12.xml"
+    }
+]
